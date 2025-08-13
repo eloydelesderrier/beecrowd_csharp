@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "beecrowd_c#/1.0.0": {
+        "runtime": {
+          "beecrowd_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "beecrowd_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

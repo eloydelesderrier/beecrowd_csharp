@@ -1,0 +1,14 @@
+C:\Users\eloyd\beecrowd_c#\bin\Debug\net9.0\beecrowd_c#.exe
+C:\Users\eloyd\beecrowd_c#\bin\Debug\net9.0\beecrowd_c#.deps.json
+C:\Users\eloyd\beecrowd_c#\bin\Debug\net9.0\beecrowd_c#.runtimeconfig.json
+C:\Users\eloyd\beecrowd_c#\bin\Debug\net9.0\beecrowd_c#.dll
+C:\Users\eloyd\beecrowd_c#\bin\Debug\net9.0\beecrowd_c#.pdb
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.AssemblyInfoInputs.cache
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.AssemblyInfo.cs
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.csproj.CoreCompileInputs.cache
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.dll
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\refint\beecrowd_c#.dll
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.pdb
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\beecrowd_c#.genruntimeconfig.cache
+C:\Users\eloyd\beecrowd_c#\obj\Debug\net9.0\ref\beecrowd_c#.dll
