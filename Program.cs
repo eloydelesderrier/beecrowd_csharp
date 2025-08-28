@@ -4,9 +4,12 @@ class Program
 {
     static void Main()
     {
-        double A = double.Parse(Console.ReadLine());
-        double B = double.Parse(Console.ReadLine());
-        double MEDIA = (A * 3.5 + B * 7.5) / 11;
-        Console.WriteLine("MEDIA = " + MEDIA.ToString("F5"));
+        int A = int.Parse(Console.ReadLine());
+        int B = int.Parse(Console.ReadLine());
+        int C = int.Parse(Console.ReadLine());
+        int D = int.Parse(Console.ReadLine());
+
+        int diferenca = (A * B) - (C * D);
+        Console.WriteLine($"DIFERENCA = {diferenca}");
     }
 }
