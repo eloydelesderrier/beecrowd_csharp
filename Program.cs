@@ -4,12 +4,13 @@ class Program
 {
     static void Main()
     {
-        int numeroFuncionario = int.Parse(Console.ReadLine());
-        double horasTrabalhadas = double.Parse(Console.ReadLine());
-        double valorHora = double.Parse(Console.ReadLine());
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int c = int.Parse(Console.ReadLine());
 
-        double salario = horasTrabalhadas * valorHora;
-        Console.WriteLine("NUMBER = " + numeroFuncionario);
-        Console.WriteLine("SALARY = U$ " + salario.ToString("F2"));
+        int maiorAB = (a + b + Math.Abs(a - b)) / 2;
+        int maior = (maiorAB + c + Math.Abs(maiorAB - c)) / 2;
+            
+        Console.WriteLine($"{maior} eh o maior ");
     }
 }

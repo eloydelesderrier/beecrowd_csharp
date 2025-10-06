@@ -8,7 +8,7 @@ namespace beecrowd_c_.Desafios
 {
     public class Area
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         { 
             string[] valores = Console.ReadLine().Split(' ');
             double A = double.Parse(valores[0], CultureInfo.InvariantCulture);
