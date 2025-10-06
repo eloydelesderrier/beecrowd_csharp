@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("beecrowd_c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d475d21b9dafe7a3d8cdfab335ea783609891b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f784abf953a8e67016b9494ea013e5e1b87eaac4")]
 [assembly: System.Reflection.AssemblyProductAttribute("beecrowd_c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("beecrowd_c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
