@@ -4,13 +4,11 @@ class Program
 {
     static void Main()
     {
-        int a = int.Parse(Console.ReadLine());
-        int b = int.Parse(Console.ReadLine());
-        int c = int.Parse(Console.ReadLine());
+        int x = int.Parse(Console.ReadLine());
+        double y = double.Parse(Console.ReadLine());
 
-        int maiorAB = (a + b + Math.Abs(a - b)) / 2;
-        int maior = (maiorAB + c + Math.Abs(maiorAB - c)) / 2;
-            
-        Console.WriteLine($"{maior} eh o maior ");
+        double consumo = x / y;
+
+        Console.WriteLine($"{consumo:F3} km/l");
     }
 }
